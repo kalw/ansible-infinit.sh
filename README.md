@@ -1,4 +1,4 @@
-[![Travis Build Status](https://travis-ci.org/hutchic/ansible-infinit.sh.svg?branch=master)](https://travis-ci.org/hutchic/ansible-infinit.sh)
+[![Travis Build Status](https://travis-ci.org/kalw/ansible-infinit.sh.svg?branch=master)](https://travis-ci.org/kalw/ansible-infinit.sh)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 
